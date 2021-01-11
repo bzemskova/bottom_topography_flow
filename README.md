@@ -7,5 +7,5 @@ Code to generate the simulations reported in "Near-inertial dissipation due to s
 * Output can be post-processed either using the built-in Nek5000 functions or in Python (recommended)
 
 ## Contents
-* Simulation folder: contains all files necessary to run a Nek5000 simulation
+* sample_simulation: contains all files necessary to run a Nek5000 simulation
 * Post-processing folder: contains all Python files for post-processing a Nek5000 output file, adapted from https://github.com/jcanton/pymech
