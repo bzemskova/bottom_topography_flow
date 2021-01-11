@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jan 11 15:08:47 2021
+
+@author: V.E. Zemskova
+Function to compute kinetic energy dissipation.
+"""
 import numpy as np
 
 

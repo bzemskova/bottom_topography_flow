@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jan 11 15:08:47 2021
+
+@author: V.E. Zemskova
+
+"""
 #----------------------------------------------------------------------------
 # This part converts Var1 that is of shape (Nx*Ny*Nz,lz,ly,lx)
 # as resulting from exadata.py to Var2 that is of shape (Nx*lx,Ny*ly,Nz*lz)
