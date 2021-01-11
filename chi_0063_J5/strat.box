@@ -1,0 +1,15 @@
+-3                         (spatial dimension)
+2                         (number of fields)
+#
+#   This is a comment
+#
+Box					hillp
+-80 -32 -64				Nelx Nely
+0.0 1.25  1.				x0 x1 ratio
+0.0 0.5  1.				y0 y1 ratio	
+0.0 1.0  1.				z0 z1 ratio
+P  ,P  ,P  ,P  ,W  ,W  			V BCs: (cbx0, cbx1, cby0, cby1)
+P  ,P  ,P  ,P  ,I  ,I  			T BCs
+
+
+
