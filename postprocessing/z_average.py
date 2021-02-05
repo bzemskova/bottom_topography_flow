@@ -3,9 +3,7 @@
 Created on Mon Jan 11 15:08:47 2021
 
 @author: V.E. Zemskova
-Sample code to open Nek5000 output file, read in velocity, grid, and buoyancy fields,
-compute total kinetic energy dissipation at every grid point, and then horizontally
-average in height-above-the-bottom vertical coordinates.
+
 """
 #-----------------------------------------------------------------------------
 # Find z-average of a field with topography
